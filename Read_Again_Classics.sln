@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Read_Again_Classics", "Read_Again_Classics.rptproj", "{72DD5F1B-0537-4CA4-9895-2E0AFF44FF4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72DD5F1B-0537-4CA4-9895-2E0AFF44FF4A}.Debug|Default.ActiveCfg = Debug
+		{72DD5F1B-0537-4CA4-9895-2E0AFF44FF4A}.Debug|Default.Build.0 = Debug
+		{72DD5F1B-0537-4CA4-9895-2E0AFF44FF4A}.Debug|Default.Deploy.0 = Debug
+		{72DD5F1B-0537-4CA4-9895-2E0AFF44FF4A}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{72DD5F1B-0537-4CA4-9895-2E0AFF44FF4A}.DebugLocal|Default.Build.0 = DebugLocal
+		{72DD5F1B-0537-4CA4-9895-2E0AFF44FF4A}.Release|Default.ActiveCfg = Release
+		{72DD5F1B-0537-4CA4-9895-2E0AFF44FF4A}.Release|Default.Build.0 = Release
+		{72DD5F1B-0537-4CA4-9895-2E0AFF44FF4A}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F064F48-B421-401D-94CB-9EF3C161697D}
+	EndGlobalSection
+EndGlobal
